@@ -8,4 +8,5 @@ void main()
     
     answer = height * base / 2;
     printf("The value of answer is %.2f ", answer);
+    
 }

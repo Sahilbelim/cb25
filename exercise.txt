@@ -4,3 +4,11 @@ write a program to find squre of given number .
 
 write a program to find simple interest . 
 
+-----------------------------------------29/09/2023---------------------------
+
+write a program to calculate income , tack monthly income and check yearly income greeter then 5 lakh 5% .
+
+write a program to check given number is odd . 
+
+write a program to check which is first triangle  biger ?  
+
