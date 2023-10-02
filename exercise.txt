@@ -14,3 +14,23 @@ write a program to check which is first triangle  biger ?
 
 Check if a character is a vowel or a consonant.
 
+--------------------------------------------------02/10/2023--------------------------
+
+BMI:
+Formula : Weight(kg)/Height(m)**2
+condition :https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167
+
+
+ Write a programe to findout income tax based on given condition take monthly income as input 
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+
+write a program to check month and year and give days.
