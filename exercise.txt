@@ -44,3 +44,10 @@ units           price  per unit
 >300 & <400     4
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount 
+
+
+
+---------------------------------------05/10/2023---------------------------------------
+
+Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://i.pinimg.com/564x/43/aa/50/43aa50c918f3bd03abb71b6d4aaf93c7.jpg
