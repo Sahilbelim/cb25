@@ -51,3 +51,8 @@ also calculate 5% percentage energy charge on total bill amount & display total 
 
 Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
 https://i.pinimg.com/564x/43/aa/50/43aa50c918f3bd03abb71b6d4aaf93c7.jpg
+
+
+write a program to find area of three triangle and check who's small .
+
+write a program to check given date is Valide or not .
