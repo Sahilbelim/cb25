@@ -6,19 +6,17 @@ void main()
 
      int count = 0;
      int flash = 6;
-     int temp = 1 ;
+
      while (flash > 0)
      {
           while (count < flash)
           {
-               printf("%d",temp);
-               temp++;
+               printf("*");
                count++;
           }
           printf("\n");
-          temp=1;
           count = 0;
-          // temp = temp - 5; 
+          // temp = temp - 1 
           flash--;
      }
      // while (count < 5)

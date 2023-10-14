@@ -5,21 +5,21 @@ void main()
 {
 
      int count = 0;
-     int flash = 6;
-     int temp = 1 ;
-     while (flash > 0)
+     int flash = 0;
+     int temp = 6;
+
+     while (flash < 5)
      {
-          while (count < flash)
+          while (count < temp)
           {
-               printf("%d",temp);
-               temp++;
+               printf("*");
                count++;
           }
           printf("\n");
-          temp=1;
           count = 0;
-          // temp = temp - 5; 
-          flash--;
+          temp--;
+          // temp = temp - 1 
+          flash++;
      }
      // while (count < 5)
      // {
@@ -48,5 +48,5 @@ void main()
      //      count++;
      // }
      // printf("\n");
-     // printf("*");
+     printf("*");
 }
