@@ -1,11 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
     int num = 101;
-
-   do
+    do
     {
         printf("%d ,", num);
         num++;
-    } while (num<=100);
+    } while (num <= 100);
 }
