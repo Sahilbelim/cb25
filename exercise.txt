@@ -99,3 +99,13 @@ write a program to check given date is Valide or not .
 23
 456
 78910
+
+----------------------------------19/10/2023------------------------------
+
+manu 
+
+1 for squre
+
+2 for qube
+
+3 for squre of two number (a+b)squre
