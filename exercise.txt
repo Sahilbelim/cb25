@@ -109,3 +109,8 @@ manu
 2 for qube
 
 3 for squre of two number (a+b)squre
+-----------------------------------------------------
+write a program to findout 1st five armstrong number using do while loop 
+//0, 1, 153, 370, 371 and 407
+
+write a program to print all dates in given year  using do while loop 
