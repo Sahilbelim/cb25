@@ -113,4 +113,20 @@ manu
 write a program to findout 1st five armstrong number using do while loop 
 //0, 1, 153, 370, 371 and 407
 
+
 write a program to print all dates in given year  using do while loop 
+
+
+---------------------------------------21/10/2023---------------
+
+a[5] = 10 20 30 40 50
+
+b[5] = 10 20 30 40 50
+
+
+a  b  a+b   a*a  b*b 
+10 10  30    900  45
+20 20  30    900  45
+30 30  30    900  45
+40 40  30    900  45
+50 50  30    900  45
