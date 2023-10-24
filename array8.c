@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 void main()
 {
     char name[24];
@@ -7,4 +6,5 @@ void main()
     printf("Enter Name : ");
     scanf("%s",&name);
     printf("Name : %s", name);
+    
 }

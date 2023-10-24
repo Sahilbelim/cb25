@@ -1,7 +1,13 @@
 #include <stdio.h>
 void main()
 {
-     int size, i;
+     int size, i, addA, addB, addAB, addAsqure, addBsqure;
+     addA = 0;
+     addB = 0;
+     addAB = 0;
+     addAsqure = 0;
+     addBsqure = 0;
+
      printf("Enter Size of Element : ");
      scanf("%d", &size);
 
@@ -27,5 +33,13 @@ void main()
      for (i = 0; i < size;i++)
      {
           printf("    %d         %d         %d       %d       %d       \n", A[i], B[i], (A[i] + B[i]), (A[i] * A[i]), (B[i] * B[i]));
+          addA = addA + A[i];
+          addB = addB + B[i];
+          addAB = addAB + A[i] + B[i];
+          addAsqure = addAsqure + (A[i]*A[i]);
+          addBsqure = addBsqure + B[i] * B[i];
      }
+     printf("-------------------------------------------------------\n");
+     printf("    %d          %d          %d         %d        %d       \n",addA,addB,addAB,addAsqure,addBsqure);
+
 }
