@@ -1,5 +1,5 @@
 #include<stdio.h>
-void printline( )
+void printline()
 {
     printf("-----------------------------------------------------\n");
 }

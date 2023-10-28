@@ -11,7 +11,7 @@ what is function
 	
 	there are many type of function in c language.
 		1) without arguments without return value function 
-		1) with arguments without return value function 
+		2) with arguments without return value function 
 		3) without arguments with return value function 
 		4) with arguments with return value function 
 		
