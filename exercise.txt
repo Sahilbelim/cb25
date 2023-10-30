@@ -130,3 +130,18 @@ a  b  a+b   a*a  b*b
 30 30  30    900  45
 40 40  30    900  45
 50 50  30    900  45
+
+
+---------------------------------------30/10/2023---------------
+
+wrire a program to given menu
+
+1 for find bmi
+
+2 for find area of triangle
+
+3 for find area of cylinder
+
+4 for find squre of given number
+
+5 for find zodiac Sign 
